@@ -3,10 +3,11 @@
 ## Interest ✨
 - Go
 - Python
-- Kubernetes :spider_web:
-- AWS
+- Docker / Kubernetes :spider_web:
+- AWS / GCP
 
 ## Like 👍
 - Coffee :coffee:
 - Bass :guitar:
-- Fortnite
+  - Subscribe Now ➡️ [Youtube](https://www.youtube.com/channel/UCtVbWDfFQaunsnRydi9uOog)
+- Fortnite 🎮
