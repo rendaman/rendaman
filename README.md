@@ -2,12 +2,12 @@
 
 ## Interest ✨
 - Go
-- Python
+- JavaScript / TypeScript
 - Docker / Kubernetes :spider_web:
 - AWS / GCP
 
 ## Like 👍
-- Coffee :coffee:
 - Bass :guitar:
   - Subscribe Now ➡️ [Youtube](https://www.youtube.com/channel/UCtVbWDfFQaunsnRydi9uOog)
-- Fortnite 🎮
+- Dart 🎯
+- Coffee :coffee:
