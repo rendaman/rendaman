@@ -2,7 +2,7 @@
 
 ## Interest ✨
 - Go
-- JavaScript / TypeScript
+- TypeScript
 - Docker / Kubernetes :spider_web:
 - AWS / GCP
 
