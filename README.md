@@ -1,5 +1,4 @@
-![opn](https://user-images.githubusercontent.com/21375602/193836465-4ff518ea-0c2f-4ace-a60b-f9bb097820dc.jpg)
-
+![opn](https://user-images.githubusercontent.com/21375602/193836696-4f8aa6d3-d85b-4cb6-8faa-042059620ed6.jpg)
 
 ## Interest ✨
 - Go
