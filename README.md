@@ -9,11 +9,11 @@ During my career, I have experience with many programming languages as Golang, T
 Also, I'm Extremely knowledgeable with hands-on experience in Databases like MySQL, Oracle, postgresql, and Redis.<br>
 I'm experienced with Docker, Kubernetes, Serverless, and many other cloud solutions in both AWS and GCP.<br>
 
-## Interest ✨
+## Interest
 - Go, TypeScript, Kotlin
 - Kubernetes
 
-## Like 👍
+## Like
 - Bass :guitar:
   - Subscribe Now ➡️ [Youtube](https://www.youtube.com/channel/UCtVbWDfFQaunsnRydi9uOog)
 - Coffee :coffee:
