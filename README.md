@@ -1,4 +1,4 @@
-![opn](https://user-images.githubusercontent.com/21375602/193836696-4f8aa6d3-d85b-4cb6-8faa-042059620ed6.jpg)
+![opn](https://user-images.githubusercontent.com/21375602/199777166-7f45a39b-1648-4132-b855-dbb863ddd5c6.png)
 
 ## About Me
 I'm a software professional with more than 7 years of experience in web applications, and cloud-based solutions.<br>
@@ -10,13 +10,10 @@ Also, I'm Extremely knowledgeable with hands-on experience in Databases like MyS
 I'm experienced with Docker, Kubernetes, Serverless, and many other cloud solutions in both AWS and GCP.<br>
 
 ## Interest ✨
-- Go
-- TypeScript
-- Docker / Kubernetes :spider_web:
-- AWS / GCP
+- Go, TypeScript, Kotlin
+- Kubernetes
 
 ## Like 👍
 - Bass :guitar:
   - Subscribe Now ➡️ [Youtube](https://www.youtube.com/channel/UCtVbWDfFQaunsnRydi9uOog)
-- Dart 🎯
 - Coffee :coffee:
