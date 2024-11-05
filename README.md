@@ -2,6 +2,8 @@
 
 ## Like
 - Go, TypeScript
+- Kubernetes, Terraform, Google Cloud
 - Bass :guitar:
   - Subscribe Now ➡️ [Youtube](https://www.youtube.com/channel/UCtVbWDfFQaunsnRydi9uOog)
 - Coffee :coffee:
+- Sauna :hotsprings:
